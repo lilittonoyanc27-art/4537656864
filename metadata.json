@@ -1,0 +1,6 @@
+{
+  "name": "Pasapalabra — Բառախաղ (Español & Հայերեն)",
+  "description": "Juego de palabras Pasapalabra con 27 letras en español y armenio con El Rosco interactivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
